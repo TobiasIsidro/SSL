@@ -1,4 +1,4 @@
-# 00 - C Hello World
+# 00 - C Hola Mundo
 
 ## Compilador
 GCC (winlibs)
@@ -10,13 +10,13 @@ gcc 14.2.0
 C23 (usando -std=c2x)
 
 ## Compilación
-gcc -std=c2x hello.c -o hello.exe
+gcc -std=c2x hola.c -o hola.exe
 
 ## Ejecución
-hello.exe
+hola.exe
 
 ## Redirección de salida
-hello.exe > output.txt
+hola.exe > output.txt
 
 ## Salida
-Hello, World!
+Hola mundo
