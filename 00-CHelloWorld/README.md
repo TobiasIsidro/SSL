@@ -7,10 +7,10 @@ GCC (winlibs)
 gcc 14.2.0
 
 ## Versión del lenguaje
-C23 (usando -std=c2x)
+C23 
 
 ## Compilación
-gcc -std=c2x hola.c -o hola.exe
+gcc -std=c23 hola.c -o hola.exe
 
 ## Ejecución
 hola.exe
